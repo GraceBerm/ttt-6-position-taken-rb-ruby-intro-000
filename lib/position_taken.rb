@@ -1,7 +1,7 @@
 
 
 def position_taken?(board, index)
-if board = ["X", " ", " ", " ", " ", " ", " ", " ", "O"]
+board = ["X", " ", " ", " ", " ", " ", " ", " ", "O"]
   index = 0
   board[index] == "  "
   board[index] == " "
